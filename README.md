@@ -46,3 +46,5 @@ For the function f(x) = x^x:
 
 As x approaches 0, x^x approaches 1, which can be proven using logarithms:
 lim(x→0) x^x = lim(x→0) e^(x ln(x)) = e^(lim(x→0) x ln(x)) = e^0 = 1 
+
+![image](https://github.com/user-attachments/assets/58046bd1-3b94-473c-961d-82d6cc3a67ae)
